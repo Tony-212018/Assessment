@@ -41,7 +41,7 @@ public class App
         jsonObject.put("key1", "value2");
         jsonObject.put("key2", "value3");
 
-        // Add two additional keys and their values
+        
         jsonObject.put("new_key1", "value4");
         jsonObject.put("new_key2", "value5");
     }
